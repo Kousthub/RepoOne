@@ -1,3 +1,5 @@
+package learnJava;
+
 public class Datatypes {
 
     int x = 10;
@@ -31,17 +33,17 @@ public class Datatypes {
         Also, we are depending on primitive datatypes which are non-objects.
 
 
-        Primitive Datatypes
-        1.	Numeric Datatypes
-            a.	Integral Datatypes
+        Primitive learnJava.Datatypes
+        1.	Numeric learnJava.Datatypes
+            a.	Integral learnJava.Datatypes
                 i.	byte
                 ii.	short
                 iii.	int
                 iv.	long
-            b.	Floating Datatypes
+            b.	Floating learnJava.Datatypes
                 i.	float
                 ii.	double
-        2.	Non-Numeric Datatypes
+        2.	Non-Numeric learnJava.Datatypes
                 i.	char
                 ii.	boolean
 

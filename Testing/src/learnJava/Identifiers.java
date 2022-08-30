@@ -1,8 +1,10 @@
+package learnJava;
+
 public class Identifiers {
 }
 
 /**
-    Java Identifiers
+    Java learnJava.Identifiers
 
 ->
         They may only compose of:
@@ -12,10 +14,10 @@ public class Identifiers {
         $
         _ (underscore)
 
-        •	Identifiers shouldn’t start with a digit.
-        •	Java Identifiers (and in turn the Java language itself) are case sensitive.
-        •	Use of Reserved words as Identifiers will lead to a compile time error.
-        •	All pre-defined Java class names (e.g. datatype names) and Java Interface names can be used as Identifiers. (But is not recommended as it reduces code readability).
+        •	learnJava.Identifiers shouldn’t start with a digit.
+        •	Java learnJava.Identifiers (and in turn the Java language itself) are case sensitive.
+        •	Use of Reserved words as learnJava.Identifiers will lead to a compile time error.
+        •	All pre-defined Java class names (e.g. datatype names) and Java Interface names can be used as learnJava.Identifiers. (But is not recommended as it reduces code readability).
         E.g.
 class Test{
     Public Static void main(String [] args)

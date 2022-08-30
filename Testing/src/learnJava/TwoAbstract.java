@@ -1,3 +1,5 @@
+package learnJava;
+
 public abstract class TwoAbstract {
     public abstract int getNumberofAbstractModifiers();
 }
