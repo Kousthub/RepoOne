@@ -1,6 +1,12 @@
 fun main() { // String[] args are optional for kotlin
     // this is a top level function
-    val declareString: String = "The ':String' is used to decalre the datatype of the string "
+
+    // var vs val:
+    //var is just a variable, val is equivalent to "final" from Java.
+    // Basically "var" values can be modified, "val" values cannot.
+    // tip: Ctrl + Shift + P on a variable to find its values
+
+    val declareString: String = "The ':String' is used to declare the datatype of the 'final' variable declareString"
     var placeHolder = "Trying out placeholders" //Kotlin has type inference, so we need not declare type for local variables.
     println("Welcome to Kotlin")
     println(add())

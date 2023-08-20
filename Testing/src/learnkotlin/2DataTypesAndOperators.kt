@@ -3,10 +3,12 @@ class DataTypesAndOperators {
 // datatypes and operators
 fun main(){
     var decimalNumber1 = 3.14 // In Kotlin the default value of a decimal number is double
-    var decimalNumber2: Float = 10.45F // In Kotlin if we want to declare a floating point number we have to suffix the value with "F"
+    var decimalNumber2: Float = 10.45F // In Kotlin if we want to declare a floating point number
+                                        // we have to suffix the value with "F"
                                         // (also : Float is not required)
     var decimalNumber3 = 400_000.45231 // This underscore is ignored, they're just used for visual clarity
-    val thisIsChar: Char // If a variable is declared but a value has not been assigned, then we must explcitly declare it's type
+    val thisIsChar: Char // If a variable is declared but a value has not been assigned,
+                    // then we must explcitly declare it's type
     println(decimalNumber3)
 
     var a: Int = 5
